@@ -1,0 +1,66 @@
+body {
+ color:black;
+background: rgb(63, 9, 63);
+margin: 0px;
+font-family: "Bungee Tint", sans-serif; 
+}
+
+header {
+
+    border-bottom: solid 6px blue;
+    padding: 20px;
+    font-size: 32px;
+    color: blue;
+}
+
+section {
+
+background: darkmagenta;
+
+}
+
+section {
+
+    background: rgba(4, 120, 203, 0.81);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+     margin-right: 1%;
+    
+}
+
+h1 {
+
+   font-size: 20px;
+
+}
+
+img {
+
+height: 250px;
+
+}
+
+.news-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 25px;
+}
+.dragon {
+    background: rgba(2, 217, 196, 0.81);
+    padding-bottom: 20px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.news-videos img {
+
+ opacity: 0.5;
+ height: 200px;
+
+}
